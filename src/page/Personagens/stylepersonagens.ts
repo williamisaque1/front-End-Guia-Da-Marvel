@@ -19,7 +19,7 @@ color:red;
 border-bottom:0.1em solid grey;
 box-shadow:1px 1px 10px 1px red;
 
-height:35%;
+height:20%;
 width:10%
 position:relative;
 background-color:black;
