@@ -1,6 +1,10 @@
 # para baixar as dependêcias do projeto
 
-## em seu terminal coloque "npm install" se estiver usando npm ou yarn install.
+em seu terminal coloque "npm install" se estiver usando npm ou yarn install.
+
+# iniciar o projeto
+
+npm start
 
 ---
 
