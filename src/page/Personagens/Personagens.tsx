@@ -25,6 +25,23 @@ const Personagens: React.FC = () => {
 
     setguia((e.target as Element).textContent);
   };
+
+  return (
+    <Container>
+      <Navmenu>
+        <P>MA</P>
+        <Lista onClick={(e) => selecionou(e)}>
+          <ListaIndice>Personagens</ListaIndice>
+          <ListaIndice>Filmes</ListaIndice>
+          <ListaIndice>HQs</ListaIndice>
+        </Lista>
+      </Navmenu>
+    </Container>
+  );
+};
+export default Personagens;
+
+/*
   const api = async () => {
     const chavepublica = "92a3af164fd54b0b6aeb349e59f9d271";
     const timestamp = "1633931387097";
@@ -41,18 +58,4 @@ const Personagens: React.FC = () => {
       .catch((err) => console.log(err));
   };
   api();
-  return (
-    <Container>
-      <Navmenu>
-        <P>MA</P>
-        <Lista onClick={(e) => selecionou(e)}>
-          <ListaIndice>Personagens</ListaIndice>
-          <ListaIndice>Filmes</ListaIndice>
-          <ListaIndice>HQs</ListaIndice>
-        </Lista>
-      </Navmenu>
-      <img src={`${img}.jpg`} alt={"jjj"}></img>
-    </Container>
-  );
-};
-export default Personagens;
+  */
