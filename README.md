@@ -9,4 +9,5 @@ npm start
 ---
 
 com o conhecimento adquirido ao longo deste projeto, haverá melhorias na parte do front-end dos projetos Medical Unity Finder e instagram automatizado.
-#imagens
+
+# captura de tela
