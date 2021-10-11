@@ -13,7 +13,7 @@ com o conhecimento adquirido ao longo deste projeto, haverá melhorias na parte 
 
 # captura de tela
 Login
-![image](https://user-images.githubusercontent.com/63307185/136856910-b075fc4b-f902-40b4-9cd9-5d282![Capturar2 (1)](https://user-images.githubusercontent.com/63307185/136860569-c25822d8-6360-4ee6-98e9-07bba1504758.png)
+![Capturar2 (1)](https://user-images.githubusercontent.com/63307185/136860569-c25822d8-6360-4ee6-98e9-07bba1504758.png)
 3361368.png)
 Home
 ![image](https://user-images.githubusercontent.com/63307185/136859289-3f109881-4bff-48ab-9192-13b1d633e957.png)
