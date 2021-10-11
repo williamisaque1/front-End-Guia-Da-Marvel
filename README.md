@@ -8,7 +8,7 @@ npm start
 
 ---
 projeto em andamento, front-end a acabar e funções a acrescentar
-login,cadastrar,recuperar senha.
+menu hamburguer,login,cadastrar,recuperar senha.
 com o conhecimento adquirido ao longo deste projeto, haverá melhorias na parte do front-end dos projetos Medical Unity Finder e instagram automatizado.
 
 # captura de tela
