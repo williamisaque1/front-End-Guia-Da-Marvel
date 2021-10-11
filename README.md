@@ -15,6 +15,7 @@ com o conhecimento adquirido ao longo deste projeto, haverá melhorias na parte 
 Login
 ![image](https://user-images.githubusercontent.com/63307185/136856910-b075fc4b-f902-40b4-9cd9-5d2823361368.png)
 Home
-![image](https://user-images.githubusercontent.com/63307185/136857146-edcd7008-9c53-4326-8200-39b9d50d5e66.png)
+![image](https://user-images.githubusercontent.com/63307185/136859289-3f109881-4bff-48ab-9192-13b1d633e957.png)
+
 
 
