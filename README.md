@@ -8,7 +8,5 @@ npm start
 
 ---
 
-#imagens
-./src/img/captura 1.PNG
-
 com o conhecimento adquirido ao longo deste projeto, haverá melhorias na parte do front-end dos projetos Medical Unity Finder e instagram automatizado.
+#imagens
